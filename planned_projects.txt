@@ -1,0 +1,4 @@
+1) make a treasure game which should be fully fletched and filled with humour and should be a big /large enough game for a short period
+of time. 
+2) Section 6, part 65 : maze : make the code such that theres no need to follow right wall 
+3) Make hangman game from scratch without help
