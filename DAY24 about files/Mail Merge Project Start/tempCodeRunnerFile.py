@@ -1,1 +1,0 @@
-    print(starting_letter.read())
